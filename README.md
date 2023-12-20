@@ -1,2 +1,2 @@
 # interview-project
-Table project
+table project
